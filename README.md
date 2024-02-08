@@ -1,3 +1,3 @@
-# terraform-secrets-practical-feb8
+# terraform-cicd-practical-feb8
 
 ## practical stuff
